@@ -1,0 +1,8 @@
+UrbanSound8K/
+spectrograms/
+dataset/
+*.pkl
+*.tar.gz
+*.h5
+*.txt
+
